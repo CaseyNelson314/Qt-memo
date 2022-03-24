@@ -1,4 +1,4 @@
-# serial
+# Serial
 シリアル通信ライブラリ関連
 ## QSerialPort
 ```cpp
