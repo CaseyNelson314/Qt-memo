@@ -4,7 +4,7 @@
 #include <QSerialPort> //ポート関連ヘッダー
 ```
 
-- 受信割り込み関数(mainwindoww.h)
+- 受信割り込み関数(mainwindow.h)
 ```cpp
 private slots:
   void event(){
