@@ -1,4 +1,5 @@
 # serial
+シリアル通信ライブラリ関連
 ## QSerialPort
 ```cpp
 #include <QSerialPort> //ポート関連ヘッダー
