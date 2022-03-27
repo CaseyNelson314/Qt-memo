@@ -21,7 +21,7 @@ constructor｛
 - スクロール自動追尾
 ```cpp
 リストを追加する関数など{
-    ui->~~~~~->insertPlainText("hohoge"); //add list
+    ui->~~~~~->insertPlainText("hohoge \n"); //add list
     ui->objname->verticalScrollBar()->setValue(ui->objname->verticalScrollBar()->maximum());
 }
 ```
