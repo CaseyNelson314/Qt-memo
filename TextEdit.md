@@ -1,6 +1,6 @@
 # TextEdit
 
-- 改行削除
+- 改行削除？
 
 ```cpp
 QString a = "souyagaus \n";
